@@ -111,8 +111,8 @@ Start command:
 ```
 gunicorn final_movie_dashboard:server
 ```
+**Live Demo:** https://movie-recommendation-dashboard.onrender.com/
 
-Update the live demo link after deployment.
 
 ---
 
